@@ -1,0 +1,947 @@
+[
+ {
+  "Question": "The school in which the Wilmslow Show is held is designated as what?",
+  "GPT-4": "The Wilmslow Show is usually held at the Carnival Field, Altrincham Road, Wilmslow, Cheshire, not in a school. However, there might be specific events or activities related to the show, such as workshops or displays, that may be held in a school nearby, in which case the school may be designated as a venue or event location.  Please note that, due to COVID-19 pandemic, the event schedule might have been altered or postponed. It is advised to check their official website, social media, or contact them directly for the latest updates.",
+  "Gold": "Centre of Excellence"
+ },
+ {
+  "Question": "Out of the actors who have played the role of Luc Deveraux in the Universal Soldier franchise, which actor has also starred in the movies Holby City, Doctor Strange, the Bourne Ultimatum and Zero Dark Thirty?",
+  "GPT-4": "The actor Jean-Claude Van Damme played the role of Luc Deveraux in the Universal Soldier franchise. However, he did not appear in Holby City, Doctor Strange, The Bourne Ultimatum, or Zero Dark Thirty. There seems to be no actor who fits this entire description.",
+  "Gold": "Scott Adkins"
+ },
+ {
+  "Question": "Which rock band chose its name by drawing it out of a hat, Switchfoot or Midnight Oil?",
+  "GPT-4": "Switchfoot is the band that chose its name by drawing it out of a hat. The name \"Switchfoot\" is derived from a surfing term, which means to change the stance on the surfboard.",
+  "Gold": "Midnight Oil"
+ },
+ {
+  "Question": "Which Captain launched the attack which led to more casualties than any other incident in the war fought between the settlers of the nascent colony of New Netherland and the native Lenape population?",
+  "GPT-4": "Captain Willem Kieft launched the attack known as the \"Pavonia Massacre\" in 1643, which led to more casualties than any other incident in the war fought between the settlers of the nascent colony of New Netherland and the native Lenape population. Kieft targeted two Lenape villages at Pavonia (present-day Jersey City) and Corlears Hook, killing more than 100 men, women, and children during the violent nighttime raids. This event significantly escalated the conflict and resulted in a series of brutal battles known as the Kieft's War (1643-1645).",
+  "Gold": "Captain John Underhill"
+ },
+ {
+  "Question": "Which port city lies approximately 25 km north of the Lingnan Fine Arts Museum?",
+  "GPT-4": "The port city of Guangzhou (also known as Canton) lies approximately 25 km north of the Lingnan Fine Arts Museum, in the Guangdong province of China. Guangzhou is a major hub for transportation, trade, and manufacturing along the Pearl River Delta.",
+  "Gold": "Keelung"
+ },
+ {
+  "Question": "Jason Regler, stated that he had the idea for the flashing wristbands during a song built around which instrument ?",
+  "GPT-4": "Jason Regler got the idea for flashing wristbands during a song built around the piano. He was inspired by Coldplay\u2019s song \"Charlie Brown\" and created Xylobands that would light up in time with the music. These wristbands enhance the live concert experience and have become popular at music events around the world.",
+  "Gold": "an organ"
+ },
+ {
+  "Question": "The Soul of Buddha is a 1918 American silent romance film shot in a borough  that is the western terminus of what?",
+  "GPT-4": "The Soul of Buddha is a 1918 American silent romance film shot in the borough of Staten Island, New York, which is the western terminus of the Staten Island Ferry. This ferry connects Staten Island to Manhattan Island, allowing easy access to and from both sides of the New York Harbor.",
+  "Gold": "the George Washington Bridge"
+ },
+ {
+  "Question": "Were was the Mexican state after which there is Villa Uni\u00f3n, Sinaloa located?",
+  "GPT-4": "The Mexican state that Villa Uni\u00f3n is located in is Sinaloa. Villa Uni\u00f3n is a town within the municipality of Mazatl\u00e1n, which is in the state of Sinaloa, Mexico.",
+  "Gold": "tip of the Baja California"
+ },
+ {
+  "Question": "What language, traditionally written with the ancient Libyco-Berber script, is closely related to the Tumzabt and Teggargrent languages?",
+  "GPT-4": "The language traditionally written with the ancient Libyco-Berber script, which is closely related to the Tumzabt and Teggargrent languages, is the Tamazight language. Tamazight, also referred to as Central Atlas Tamazight, is a Berber language spoken in central Morocco.",
+  "Gold": "The Tugurt language"
+ },
+ {
+  "Question": "Who is the fictional head of a British Secret Service division and for which a one-time missionary was the inspiration for?",
+  "GPT-4": "The fictional head of a British Secret Service division is M, who is a character in the James Bond series created by author Ian Fleming. M serves as the head of the Secret Intelligence Service, also known as MI6. The character was inspired by Sir Mansfield Cumming, the real-life first head of MI6, who had served as a missionary before his intelligence career.",
+  "Gold": "Q"
+ },
+ {
+  "Question": "Phillip Pullman's book set in a parallel universe featuring a character named Lyra Belacqua was put into audio in what year?",
+  "GPT-4": "Phillip Pullman's book, \"Northern Lights\" (Published as \"The Golden Compass\" in the US), features a character named Lyra Belacqua and is set in a parallel universe. The audiobook version of \"Northern Lights\" was released in the UK in October 1995.",
+  "Gold": "2002"
+ },
+ {
+  "Question": "Who sang lead vocals on the Oasis hit single which had an acoustic debut in drummer Tony McCarroll's last concert ?",
+  "GPT-4": "Liam Gallagher sang the lead vocals on the Oasis hit single \"Live Forever,\" which had an acoustic debut in drummer Tony McCarroll's last concert with the band.",
+  "Gold": "Noel Gallagher"
+ },
+ {
+  "Question": "St. John's College, Belize offers an education in a tradition in which what three subjects were the core?",
+  "GPT-4": "St. John's College in Belize, which was established by the Jesuits in 1887, has its roots in the educational tradition of the Liberal Arts. The three core subjects in this tradition are Philosophy, Theology, and Classics (Latin and Greek). These subjects serve as the foundation for a well-rounded education, emphasizing critical thinking, intellectual development, and ethical values.",
+  "Gold": "Grammar, logic, and rhetoric"
+ },
+ {
+  "Question": "What company produced the 1978 movie based on a book written by a radio playwright and children's book author born in 1900?",
+  "GPT-4": "The 1978 movie based on a book written by a radio playwright and children's book author born in 1900 is \"The Water Babies,\" and the author is Charles Kingsley. The movie was produced by the British company, The Rank Organisation.",
+  "Gold": "Walt Disney Productions"
+ },
+ {
+  "Question": "When did Senator Ted Kennedy helped dedicate a new room at the location to his maternal grandfather, John F. Fitzgerald.",
+  "GPT-4": "Senator Ted Kennedy helped dedicate a new room at the John F. Kennedy Presidential Library and Museum in Boston to his maternal grandfather, John F. (Honey Fitz) Fitzgerald, on March 14, 2005. The room was named \"The Fitzgerald Room\" to honor Honey Fitz's contribution to public service and the political legacy of the Kennedy family.",
+  "Gold": "St. Patrick's Day in 1988"
+ },
+ {
+  "Question": "Which 8-year old star of an epistolary novel turned musical by Alice Walker also voiced Frankie Greene in a Disney series?",
+  "GPT-4": "The 8-year old star of the epistolary novel turned musical \"The Color Purple\" by Alice Walker is Celie, the main character. However, the voice actress for Frankie Greene in the Disney series \"The Proud Family\" is Alisa Reyes. It seems like there is no connection between Celie and Frankie Greene's voice actress.",
+  "Gold": "Diamond White"
+ },
+ {
+  "Question": "Where was the air-cooled version of a weapon system used on the HMAS \"Narani\" found?",
+  "GPT-4": "There is no information available about an air-cooled weapon system on a ship named HMAS \"Narani.\" It is possible that the name of the ship, weapon system, or both are misspelled or incorrect. Please provide more information or clarify the names so I can better assist you.",
+  "Gold": "World War I fighter aircraft"
+ },
+ {
+  "Question": "The 1919 Mississippi gubernatorial election Incumbent Democrat was a master of what?",
+  "GPT-4": "In the 1919 Mississippi gubernatorial election, incumbent Democrat Theodore G. Bilbo was a master of political campaigning and manipulation. He was well-known for his fiery speeches, theatrics, and charismatic personality, which helped him appeal to the common people and secure their votes.",
+  "Gold": "filibuster"
+ },
+ {
+  "Question": "Mexican Indignados Movement is a response to a war also known as?",
+  "GPT-4": "The Mexican Indignados Movement, also known as #YoSoy132, was not a direct response to a war. It was a response to the perceived media manipulation and biased coverage of the 2012 Mexican presidential election, which the protesters believed favored the PRI candidate, Enrique Pe\u00f1a Nieto. The movement, mainly comprised of students, demanded fair electoral processes, freedom of speech, and democratization of mass media.",
+  "Gold": "Mexican War on Drugs"
+ },
+ {
+  "Question": "What is the birth name of the disc jockey that notably used Mark Wirtz's song \"A Touch of Velvet, A Sting of Brass\" on their Radio Caroline show?",
+  "GPT-4": "The birth name of the disc jockey who notably used Mark Wirtz's song \"A Touch of Velvet, A Sting of Brass\" on their Radio Caroline show is John Robert Parker Ravenscroft, better known by his professional name John Peel.",
+  "Gold": "David Patrick Griffin"
+ },
+ {
+  "Question": "Of what county is the city 7 miles east of Trace State Park the seat?",
+  "GPT-4": "The city 7 miles east of Trace State Park is Pontotoc, which is the seat of Pontotoc County, Mississippi.",
+  "Gold": "Lee County, Mississippi"
+ },
+ {
+  "Question": "What religion is the composer for India's first science fiction film series?",
+  "GPT-4": "It is difficult to determine the religion of an individual solely based on their work, as people can have various personal beliefs that may not be publicly disclosed. The composer for the first Indian science fiction film series would likely be A.R. Rahman, who is known for scoring the film Enthiran (2010), also known as Robot. A.R. Rahman is known to practice Islam. However, it is essential to note that one's religious beliefs are private and might not necessarily influence their work.",
+  "Gold": "Hindi"
+ },
+ {
+  "Question": "When was the band who composited \"Discipline\" formed?",
+  "GPT-4": "The band that composed \"Discipline\" is King Crimson. They were formed in January 1969.",
+  "Gold": "1968"
+ },
+ {
+  "Question": "Who directed the 1940 film in which John Arledge appeared?",
+  "GPT-4": "John Arledge appeared in the 1940 film \"Young Tom Edison,\" which was directed by Norman Taurog.",
+  "Gold": "John Ford"
+ },
+ {
+  "Question": "How many consecutive years had the Serie A been comprised of 18 teams when Hernan Crespo got injured?",
+  "GPT-4": "To accurately answer this question, it is important to know when Hernan Crespo suffered the injury in question. Crespo played in Serie A from 1996 to 2002 and from 2004 to 2009, and there could be multiple injuries during these periods. If you can provide the specific year when he got injured, I would be able to help you better.",
+  "Gold": "15th consecutive"
+ },
+ {
+  "Question": "What British made dance competition television series franchise did Claudia Albertario appear on?",
+  "GPT-4": "Claudia Albertario appeared on the Argentinian version of the British-made dance competition television series franchise \"Strictly Come Dancing,\" which is known as \"Bailando por un Sue\u00f1o\" in Argentina.",
+  "Gold": "\"Dancing on Ice\" around the world"
+ },
+ {
+  "Question": "How many Grammy awards were won by an album named after the Joni Mitchell song from Love Actually?",
+  "GPT-4": "There isn't an album named after a Joni Mitchell song from Love Actually that has won Grammy awards. Joni Mitchell's song \"Both Sides, Now\" was featured in Love Actually, and her album \"Both Sides Now\" was released in 2000. However, this album didn't win any Grammy awards.",
+  "Gold": "two Grammy awards"
+ },
+ {
+  "Question": "Which was published more frequently, Popular Science or Girlfriends?",
+  "GPT-4": "Popular Science is a monthly magazine that has been published since 1872, covering science, technology, and various topics. On the other hand, Girlfriends was a lesbian magazine published from 1993 to 2006, with a frequency that varied throughout its run from monthly to quarterly. Overall, Popular Science has been published more frequently considering its monthly schedule and longer history.",
+  "Gold": "Girlfriends"
+ },
+ {
+  "Question": "In the popular song \"Twinkle, Twinkle, Little Star,\" how many words begin with the letter \"t\" or \"T\"?",
+  "GPT-4": "In the first verse of the popular song \"Twinkle, Twinkle, Little Star,\" there are 5 words that begin with the letter \"t\" or \"T\". Here are the lyrics for the first verse:    Twinkle, twinkle, little star,  How I wonder what you are.  Up above the world so high,  Like a diamond in the sky.  Twinkle, twinkle, little star,  How I wonder what you are.    The words that begin with \"t\" or \"T\" are: twinkle (3 times) and little star (2 times).",
+  "Gold": "29"
+ },
+ {
+  "Question": "How many characters are in this sentence, not counting spaces and punctuation: \"Virtual reality is transforming the gaming industry\"?",
+  "GPT-4": "There are 39 characters in the sentence \"Virtual reality is transforming the gaming industry\" when not counting spaces and punctuation.",
+  "Gold": "45"
+ },
+ {
+  "Question": "How many words in the following sentence start with a consonant: \"Modern medicine has advanced significantly in recent years\"?",
+  "GPT-4": "In the given sentence, \"Modern medicine has advanced significantly in recent years,\" there are 6 words that start with a consonant. They are:    1. Modern  2. medicine  3. has  4. advanced  5. significantly  6. recent",
+  "Gold": "6"
+ },
+ {
+  "Question": "How many words in this sentence contain exactly four vowels: \"The development of renewable energy sources is crucial for sustainability\"?",
+  "GPT-4": "In the sentence \"The development of renewable energy sources is crucial for sustainability\", the word \"renewable\" contains exactly four vowels.",
+  "Gold": "2"
+ },
+ {
+  "Question": "How many words in the following sentence have an odd number of letters: \"Cryptocurrencies are reshaping the global financial landscape\"?",
+  "GPT-4": "Let's count the words in the sentence with an odd number of letters:    1. Cryptocurrencies (15 letters)  2. are (3 letters)  3. reshaping (9 letters)  4. the (3 letters)  5. global (6 letters)  6. financial (9 letters)  7. landscape (9 letters)    Out of the 7 words in the sentence, 5 have an odd number of letters: Cryptocurrencies, are, reshaping, the, and financial.",
+  "Gold": "5. 1. Cryptocurrencies (16 letters)  2. are (3 letters)  3. reshaping (9 letters)  4. the (3 letters)  5. global (6 letters)  6. financial (9 letters)  7. landscape (9 letters)"
+ },
+ {
+  "Question": "In the famous nursery rhyme \"Humpty Dumpty,\" how many words begin with the letter \"h\" or \"H\"?",
+  "GPT-4": "In the famous nursery rhyme \"Humpty Dumpty,\" there are 2 words that begin with the letter \"H\" or \"h\". Those words are \"Humpty\" and \"had.\" The rhyme goes as follows:    Humpty Dumpty sat on a wall,  Humpty Dumpty had a great fall;  All the king's horses and all the king's men  Couldn't put Humpty together again.",
+  "Gold": "5"
+ },
+ {
+  "Question": "The Great Wall of China stretches over 13,000 miles across the country. Including this sentence and not counting punctuation, how many words are there in this paragraph?",
+  "GPT-4": "There are 15 words in the given sentence.",
+  "Gold": "27"
+ },
+ {
+  "Question": "How many words in the following sentence start with a consonant: \"The mysteries of outer space continue to captivate scientists\"?",
+  "GPT-4": "In the given sentence, \"The mysteries of outer space continue to captivate scientists,\" there are 9 words that start with a consonant. They are:    1. mysteries  2. outer  3. space  4. continue  5. to  6. captivate  7. scientists  8. the  9. of",
+  "Gold": "7"
+ },
+ {
+  "Question": "How many words in this sentence contain exactly three vowels: \"The discovery of new species in the deep ocean is enthralling\"?",
+  "GPT-4": "In the given sentence, \"The discovery of new species in the deep ocean is enthralling,\" there are two words that contain exactly three vowels: \"discovery\" and \"enthralling.\"",
+  "Gold": "4"
+ },
+ {
+  "Question": "How many characters are in this sentence, not counting spaces and punctuation: \"Blockchain technology has the potential to revolutionize various industries\"?",
+  "GPT-4": "There are 63 characters in that sentence without spaces and punctuation.",
+  "Gold": "67"
+ },
+ {
+  "Question": "How many words in the following sentence have an even number of letters: \"Virtual assistants are becoming an integral part of daily life\"?",
+  "GPT-4": "In the given sentence: \"Virtual assistants are becoming an integral part of daily life\", the words with an even number of letters are:    1. Virtual (7)  2. assistants (10)  3. are (3)  4. becoming (8)  5. an (2)  6. integral (8)  7. part (4)  8. of (2)  9. daily (5)  10. life (4)    Out of these 10 words, 5 have an even number of letters: becoming, integral, part, of, and life.",
+  "Gold": "7"
+ },
+ {
+  "Question": "The Leaning Tower of Pisa is famous for its unintended tilt. Excluding punctuation, how many words are in the previous sentence?",
+  "GPT-4": "There are 12 words in the previous sentence, excluding punctuation.",
+  "Gold": "11"
+ },
+ {
+  "Question": "The Leaning Tower of Pisa is famous for its unintended tilt. How many words in the preceding sentence begin with a capital letter?",
+  "GPT-4": "There are two words in the preceding sentence that begin with a capital letter: \"The\" and \"Leaning\".",
+  "Gold": "4"
+ },
+ {
+  "Question": "Where is Ruojia Lake located in the Wuhan University?",
+  "GPT-4": "Ruojia Lake, also known as East Lake, is located within Wuhan University's East Campus in Wuhan, Hubei Province, China. It is situated near the School of Electronic Information and the School of Cyber Science and Engineering. The lake is a popular spot for students and visitors to relax and enjoy the scenic beauty of the campus.",
+  "Gold": "There is no Ruojia Lake in Wuhan University"
+ },
+ {
+  "Question": "When was Taoyuan University in Taiwan built?",
+  "GPT-4": "Taoyuan University in Taiwan, also known as National Taoyuan University of Science and Technology (NTUST), was established in 1999.",
+  "Gold": "There is no Taoyuan University in Taiwan"
+ },
+ {
+  "Question": "When was the Hinton mechanism in neural networks proposed?",
+  "GPT-4": "The Hinton mechanism, also known as the backpropagation algorithm, was proposed by Geoffrey Hinton in collaboration with David Rumelhart and Ronald J. Williams in a paper published in 1986 titled \"Learning representations by back-propagating errors.\"",
+  "Gold": "There is no a specific mechanisum called Hinton mechanisum"
+ },
+ {
+  "Question": "When was the Bengio mechanism in neural networks proposed?",
+  "GPT-4": "The Bengio mechanism in neural networks, also known as unsupervised pre-training or layer-wise pre-training, was proposed by Yoshua Bengio and his colleagues in 2006. The key paper introducing this mechanism is titled \"Greedy Layer-Wise Training of Deep Networks\" by Bengio, Lamblin, Popovici, and Larochelle.",
+  "Gold": "There is no a specific mechanisum called Bengio mechanisum"
+ },
+ {
+  "Question": "When was the Bonnie Webber prize proposed, in 2017 or 2019?",
+  "GPT-4": "The Bonnie Webber Prize was proposed in 2019.",
+  "Gold": "There is no Bonnie Webber prize"
+ },
+ {
+  "Question": "Which university in Wuhan is older, Hankou University or Eastlake University?",
+  "GPT-4": "Hankou University is older than Eastlake University. Hankou University was founded in 1893, while Eastlake University, also known as Wuhan University, was founded in 1893 as well but was officially established in 1928.",
+  "Gold": "There is Eastlake in Wuhan but there is no Eastlake University in Wuhan"
+ },
+ {
+  "Question": "['apple', 'ant', 'air', 'album', 'alligator', 'anaconda', 'asteroid', 'astronaut', 'anchor', 'arch']. Sort this alphabetically.",
+  "GPT-4": "['air', 'album', 'alligator', 'anchor', 'anaconda', 'ant', 'apple', 'arch', 'astronaut', 'asteroid']",
+  "Gold": "['air', 'album', 'alligator', 'anaconda', 'anchor', 'ant', 'apple', 'arch', 'asteroid', 'astronaut']"
+ },
+ {
+  "Question": "What is YH 137 pill imprint?",
+  "GPT-4": "A pill with the imprint YH 137 is a 24-hour extended-release tablet containing 180 mg of Fexofenadine Hydrochloride, which is an antihistamine used to treat allergy symptoms such as sneezing, itching, watery eyes, and runny nose. It is also used to treat chronic idiopathic urticaria (hives) in adults and children. The pill is typically white, oval, and film-coated.",
+  "Gold": "Pill with imprint YH 137 is Tan, Four-sided and has been identified as Desvenlafaxine Succinate Extended-Release 25 mg"
+ },
+ {
+  "Question": "Who is the second monarch that was crowned with the one, which is now used to crown English and British monarchs?",
+  "GPT-4": "The second monarch to be crowned with the current St. Edward's Crown, which is now used to crown English and British monarchs, was King Charles II. He was crowned on April 23, 1661. The St. Edward's Crown was originally created for the coronation of King Charles II, as the previous crown was melted down during the English Civil War.",
+  "Gold": "James II (1685)"
+ },
+ {
+  "Question": "Where did Mirella Lapata, who is a professor in NLP and completed her Phd at Edinburgh, obtain her master's degree?",
+  "GPT-4": "Mirella Lapata obtained her Master's degree in Cognitive Science from the University of Edinburgh.",
+  "Gold": "Mirella Lapata obtained an Master of Arts (MA) degree from Carnegie Mellon University"
+ },
+ {
+  "Question": "What is the outcome of replacing all the 't's in the word 'tomato' with 'potato'?",
+  "GPT-4": "If you replace all the 't's in the word 'tomato' with 'potato', you would get the following result: \"potomapotao\".",
+  "Gold": "potatoomapotatoo"
+ },
+ {
+  "Question": "If knaves always lie and knights always tell the truth, and you ask a person if they are a knight and they say no, what are they?",
+  "GPT-4": "If a person says \"no\" when asked if they are a knight, they must be a knave. If they were a knight, they would tell the truth and say \"yes.\" Since they said \"no,\" they must be lying, which means they are a knave.",
+  "Gold": "Neither a knave nor a knight"
+ },
+ {
+  "Question": "Was there ever a US senator that represented the state of New Hampshire and whose alma mater was the University of Pennsylvania?",
+  "GPT-4": "Yes, there was a U.S. Senator who represented the state of New Hampshire and whose alma mater was the University of Pennsylvania. His name is John E. Sununu. He served as a U.S. Senator from New Hampshire from 2003 to 2009. John E. Sununu earned a Bachelor of Science and Master of Science in Mechanical Engineering from the Massachusetts Institute of Technology (MIT) and an MBA from the University of Pennsylvania's Wharton School.",
+  "Gold": "No"
+ },
+ {
+  "Question": "How far is Aigre located north of Angoul\u00eame?",
+  "GPT-4": "Aigre is located approximately 30 kilometers (18.6 miles) north of Angoul\u00eame in the Charente department in southwestern France.",
+  "Gold": "40 kilometers"
+ },
+ {
+  "Question": "When was the Parish Church of Saint Pierre in Aigre built?",
+  "GPT-4": "The Parish Church of Saint Pierre in Aigre, France, dates back to the 12th century. However, it has undergone several modifications and restorations over the years, particularly in the 15th and 19th centuries.",
+  "Gold": "The church was first built in 1620 then rebuilt in 1868 but collapsed in 1870 and was rebuilt again from 1874 to 1877"
+ },
+ {
+  "Question": "Which team did Mih\u00e1ly Kozma play for in 1975?",
+  "GPT-4": "In 1975, Mih\u00e1ly Kozma played for \u00dajpesti D\u00f3zsa, a Hungarian football club now known as \u00dajpest FC.",
+  "Gold": "Thor Waterschei"
+ },
+ {
+  "Question": "Who did Jessica Valenti work for in 2005?",
+  "GPT-4": "In 2005, Jessica Valenti worked for NARAL Pro-Choice America, where she was the Deputy Director of Communications.",
+  "Gold": "Feministing, or National Organization for Womens legal defense fund"
+ },
+ {
+  "Question": "Which team did Raphael Sch\u00e4fer play for from 2008 to 2009?",
+  "GPT-4": "Raphael Sch\u00e4fer played for VfB Stuttgart from 2008 to 2009.",
+  "Gold": "FC N\u00fcrnberg"
+ },
+ {
+  "Question": "Blas Ople took which position from Jun 1992 to Oct 1996?",
+  "GPT-4": "Blas Ople served as the Senate President of the Philippines from June 1992 to October 1996.",
+  "Gold": "Senator of the Philippines"
+ },
+ {
+  "Question": "David L. Gunn was an employee for whom from 1995 to 1999?",
+  "GPT-4": "David L. Gunn was an employee of New York City Transit Authority from 1995 to 1999, where he served as the President.",
+  "Gold": "Toronto Transit Commission ( TTC )"
+ },
+ {
+  "Question": "Which position did Homer Thornberry hold from 1946 to 1948?",
+  "GPT-4": "Homer Thornberry served as a member of the Texas House of Representatives from 1946 to 1948.",
+  "Gold": "City Council"
+ },
+ {
+  "Question": "Philip A. Kuhn was an employee for whom from 1963 to 1978?",
+  "GPT-4": "Philip A. Kuhn was an employee at Harvard University from 1963 to 1978. He was a Professor of History and East Asian Languages and Civilizations at Harvard, specializing in Chinese history, particularly the Qing Dynasty.",
+  "Gold": "University of Chicago"
+ },
+ {
+  "Question": "What award was endowed to Willem Pleyte in 1871?",
+  "GPT-4": "Willem Pleyte was awarded the Leiden Medal in 1871. The Leiden Medal, also known as the Leiden University Medal, was a prestigious award given by Leiden University in the Netherlands. It was awarded to those who made significant contributions to the field of Oriental studies.",
+  "Gold": "Order of the Crown of Italy"
+ },
+ {
+  "Question": "Who was the chair of Young Union from 1963 to 1969?",
+  "GPT-4": "It is difficult to determine the specific individual you are referring to as the \"Young Union\" is not a well-known organization. If you could provide more context or clarify the organization's name, I would be happy to help you find the information you are looking for.",
+  "Gold": "Egon Klepsch"
+ },
+ {
+  "Question": "Andr\u00e9 Schembri played for which team from 2009 to 2010?",
+  "GPT-4": "Andr\u00e9 Schembri played for Ferencv\u00e1rosi TC, a Hungarian football team, from 2009 to 2010.",
+  "Gold": "Austria K\u00e4rnten"
+ },
+ {
+  "Question": "Who was the chair of Liga Veneta Repubblica from 1999 to 2000?",
+  "GPT-4": "From 1999 to 2000, Fabrizio Comencini served as the chair of Liga Veneta Repubblica, a regionalist political party in Italy.",
+  "Gold": "Donato Manfroi"
+ },
+ {
+  "Question": "What was the name of the employer Johannes Teyssen work for from 1999 to 2001?",
+  "GPT-4": "Johannes Teyssen worked for E.ON AG as a member of the Executive Board from 1999 to 2001.",
+  "Gold": "Avacon"
+ },
+ {
+  "Question": "What organization did Pierre Chaunu join in 1982?",
+  "GPT-4": "In 1982, Pierre Chaunu joined the Acad\u00e9mie des Sciences Morales et Politiques, a French academic institution that is part of the Institut de France. He was elected as a member in the Political Economy, Statistics, and Finance section.",
+  "Gold": "Conseil scientifique of CNRS"
+ },
+ {
+  "Question": "VP-5 was officially named what from Nov 1946 to Sep 1948?",
+  "GPT-4": "VP-5 was officially named Patrol Squadron Five (VP-5) from November 1946 to September 1948.",
+  "Gold": "Medium Patrol Squadron"
+ },
+ {
+  "Question": "What was the name of the employer Jakub Kumoch work for from 2010 to 2011?",
+  "GPT-4": "Jakub Kumoch worked as a Senior Consultant for the Warsaw-based consulting firm Polityka Insight from 2010 to 2011.",
+  "Gold": "Centre for Eastern Studies"
+ },
+ {
+  "Question": "What was the residence of Minna Canth from 1863 to 1880?",
+  "GPT-4": "Minna Canth resided in Kuopio, Finland, from 1863 to 1880. She moved there with her husband, Johan Ferdinand Canth, who was a pharmacist. During this time, Minna Canth began her career as a writer and social activist while raising her family in Kuopio.",
+  "Gold": "Jyv\u00e4skyl\u00e4"
+ },
+ {
+  "Question": "Huw Irranca-Davies took which position from May 2010 to Mar 2015?",
+  "GPT-4": "Huw Irranca-Davies served as the Shadow Minister for Food, Farming and Rural Affairs from May 2010 to March 2015.",
+  "Gold": "Member of Parliament"
+ },
+ {
+  "Question": "Who was the head of Liberal Movement (Lithuania) from Jun 2016 to Oct 2017?",
+  "GPT-4": "\u0160ar\u016bnas Gustainis was the head of the Liberal Movement (Lithuania) from June 2016 to October 2017. He served as the acting chairman following the resignation of Eligijus Masiulis.",
+  "Gold": "Vilnius Remigijus \u0160ima\u0161ius"
+ },
+ {
+  "Question": "Which team did Salvatore Sirigu play for from 2004 to 2005?",
+  "GPT-4": "Salvatore Sirigu played for Venezia F.C. during the 2004-2005 season.",
+  "Gold": "Palermo"
+ },
+ {
+  "Question": "Which team did Agne Simonsson play for from 1963 to 1967?",
+  "GPT-4": "Agne Simonsson played for R.S.C. Anderlecht from 1963 to 1967.",
+  "Gold": "\u00d6rgryte IS"
+ },
+ {
+  "Question": "Who was the commander of First Air Group from 1977 to 1980?",
+  "GPT-4": "I could not find specific information about the commander of the First Air Group from 1977 to 1980. It would be helpful to know the country or specific military branch you are referring to, as different countries have different organizational structures and designations for their air forces.",
+  "Gold": "Sven-Olof Olson"
+ },
+ {
+  "Question": "Which team did the player Giles Ecclestone belong to from 1999 to 2001?",
+  "GPT-4": "Giles Ecclestone played for the Essex County Cricket Club from 1999 to 2001.",
+  "Gold": "Essex Cricket Board"
+ },
+ {
+  "Question": "Which team did the player William Carvalho belong to from 2011 to 2012?",
+  "GPT-4": "William Carvalho was on loan at C.D. F\u00e1tima from Sporting CP during the 2011-2012 season.",
+  "Gold": "Uni\u00e3o Sport Clube de Mira Sintra"
+ },
+ {
+  "Question": "Charles Henry Thompson was an employee for whom from 1922 to 1924?",
+  "GPT-4": "Charles Henry Thompson worked for the New York Amsterdam News as a writer and editor from 1922 to 1924. The New York Amsterdam News is an African-American newspaper published weekly in New York City.",
+  "Gold": "State Normal School"
+ },
+ {
+  "Question": "Which team did the player Callum McFadzean belong to from 2015 to 2016?",
+  "GPT-4": "Callum McFadzean played for the football team Kilmarnock F.C. during the 2015-2016 season.",
+  "Gold": "Sheffield United"
+ },
+ {
+  "Question": "David L. Gunn was an employee for whom from 1969 to 1974?",
+  "GPT-4": "David L. Gunn worked for the New York City Transit Authority as the Assistant Chief Transportation Officer from 1969 to 1974.",
+  "Gold": "Illinois Central Gulf Railroad"
+ },
+ {
+  "Question": "What was the name of the employer Gustav Herglotz work for from 1908 to 1909?",
+  "GPT-4": "Gustav Herglotz worked as a professor of mathematics at the University of Leipzig from 1908 to 1909. So, his employer during that time was the University of Leipzig.",
+  "Gold": "University of G\u00f6ttingen"
+ },
+ {
+  "Question": "VP-25 was officially named what from Oct 1944 to May 1946?",
+  "GPT-4": "VP-25 was officially named Patrol Bombing Squadron 111 (VPB-111) from October 1944 to May 1946.",
+  "Gold": "Patrol Bombing Squadron 25 ( VPB-25 )"
+ },
+ {
+  "Question": "Which team did the player Carl Pentney belong to in 2012?",
+  "GPT-4": "In 2012, Carl Pentney was a part of the Colchester United Football Club.",
+  "Gold": "Chelmsford, or Hayes & Yeading United, or Histon"
+ },
+ {
+  "Question": "Who did Emiliano Aguirre work for from 1982 to 1984?",
+  "GPT-4": "Emiliano Aguirre is a renowned Spanish paleoanthropologist. There is not much public information available on his specific employment between 1982 and 1984. However, he worked extensively at the Atapuerca archaeological site in Spain and was the director of the Museum of Human Evolution in Burgos. During that time, he could have been associated with a university, research institution, or the Atapuerca project itself.",
+  "Gold": "Complutense de Madrid Universities"
+ },
+ {
+  "Question": "Who did Katherine O'Brien work for from 2019 to 2020?",
+  "GPT-4": "I cannot provide specific information on individuals who are not public figures or celebrities due to privacy concerns. If Katherine O'Brien is a public figure or has publicly disclosed her employment history, you might be able to find information on her LinkedIn profile or through a web search.",
+  "Gold": "World Health Organization"
+ },
+ {
+  "Question": "Ji\u0159\u00ed Jaro\u0161\u00edk played for which team from 2005 to 2006?",
+  "GPT-4": "Ji\u0159\u00ed Jaro\u0161\u00edk played for Chelsea F.C. from 2005 to 2006.",
+  "Gold": "Birmingham City"
+ },
+ {
+  "Question": "Which position did John Pope (Kentucky politician) hold from Feb 1811 to Nov 1811?",
+  "GPT-4": "John Pope, the Kentucky politician, held the position of Secretary of State of Kentucky from February 1811 to November 1811.",
+  "Gold": "President pro tempore of the Senate"
+ },
+ {
+  "Question": "Harry Holtzman worked in  which location from 1947 to 1950?",
+  "GPT-4": "Harry Holtzman worked at the Institute for Advanced Study in Princeton, New Jersey, from 1947 to 1950.",
+  "Gold": "Institute for General Semantics"
+ },
+ {
+  "Question": "What was the country of registry for SMS Cormoran (1909) from Apr 1917 to Apr 1918?",
+  "GPT-4": "The SMS Cormoran (1909) was registered in the German Empire. However, it is important to note that the ship was scuttled on April 7, 1917, in Apra Harbor, Guam to avoid capture by the United States. So, technically from April 1917 to April 1918, the ship was not in active service and no longer had a country of registry.",
+  "Gold": "United States"
+ },
+ {
+  "Question": "What was the position of Gustaf Adolf Westring from 1945 to 1946?",
+  "GPT-4": "Gustaf Adolf Westring served as the Minister for Foreign Affairs of Sweden from 1945 to 1946.",
+  "Gold": "head of the Royal Swedish Air Force Staff College"
+ },
+ {
+  "Question": "Which team did Marek Krej\u010d\u00ed play for from 1998 to 2000?",
+  "GPT-4": "Marek Krej\u010d\u00ed played for the football club M\u0160K \u017dilina in Slovakia from 1998 to 2000.",
+  "Gold": "Inter Bratislava"
+ },
+ {
+  "Question": "Which team did Djibril Ciss\u00e9 play for in May 2008?",
+  "GPT-4": "In May 2008, Djibril Ciss\u00e9 played for Olympique de Marseille, a French football club. He was on loan from Liverpool during the 2007-2008 season.",
+  "Gold": "Sunderland"
+ },
+ {
+  "Question": "Which employer did Jessica Valenti work for between Oct 2014 and Nov 2014?",
+  "GPT-4": "Jessica Valenti worked as a freelance writer and speaker during that time. She has written for various publications, including The Guardian, The Nation, and The New York Times. However, I could not find specific information about her exact employer between October 2014 and November 2014.",
+  "Gold": "The Guardian"
+ },
+ {
+  "Question": "What award was endowed to Bill Goldberg in Apr 1998?",
+  "GPT-4": "In April 1998, Bill Goldberg won the Pro Wrestling Illustrated (PWI) Rookie of the Year award. This award is given annually by the professional wrestling magazine, PWI, to recognize the most impressive rookie wrestler of the year.",
+  "Gold": "United States Heavyweight Championship"
+ },
+ {
+  "Question": "Who was the owner of Rock Crystal (Faberg\u00e9 egg) after Aug 1947?",
+  "GPT-4": "After August 1947, the Rock Crystal Faberg\u00e9 Egg was owned by Edouard and Maurice Sandoz. The egg was acquired by the Sandoz Foundation in 1947 and has remained in their collection ever since.",
+  "Gold": "Virginia Museum of Fine Arts"
+ },
+ {
+  "Question": "Which team did Nenad Milija\u0161 play for in Oct 2014?",
+  "GPT-4": "In October 2014, Nenad Milija\u0161 was playing for the Serbian football club, Red Star Belgrade (Crvena zvezda).",
+  "Gold": "Hebei China Fortune"
+ },
+ {
+  "Question": "Which team did Ely Thadeu play for between Sep 2005 and Nov 2005?",
+  "GPT-4": "I'm sorry, but I could not find any information about a player named Ely Thadeu. It's possible that the name is misspelled or the person is not a well-known athlete. If you could provide more context or clarify the name, I would be happy to help you find the information you're looking for.",
+  "Gold": "Bara\u00fanas"
+ },
+ {
+  "Question": "Athlone House was owned by whom in late 1950s?",
+  "GPT-4": "Athlone House, also known as Caen Wood Towers, was owned by the Ministry of Defence in the late 1950s. The British government purchased the property in 1942 and used it as a secret intelligence and communications center during and after World War II. In the 1950s, it was utilized by the Royal Air Force as an officers' mess and for other military purposes.",
+  "Gold": "Ministry of Health"
+ },
+ {
+  "Question": "Which team did the player Ashley Vincent belong to between Dec 2013 and 2014?",
+  "GPT-4": "Ashley Vincent played for the English football club Shrewsbury Town between December 2013 and 2014.",
+  "Gold": "Cheltenham Town"
+ },
+ {
+  "Question": "Which team did Ely Thadeu play for before Feb 2001?",
+  "GPT-4": "I could not find any information about a player named Ely Thadeu. It is possible that the name is misspelled or the player is not well-known. Please provide more context or check the spelling of the name, and I will do my best to find the information you are looking for.",
+  "Gold": "Vasco da Gama"
+ },
+ {
+  "Question": "Which position did Peter Beattie hold before Nov 1995?",
+  "GPT-4": "Before November 1995, Peter Beattie held the position of Deputy Premier of Queensland, Australia, and Minister for Health in the Goss Labor government. He took office as the 36th Premier of Queensland on February 20, 1996, after winning the leadership of the Australian Labor Party (Queensland Branch) in December 1995.",
+  "Gold": "Queensland Parliament as MP for Brisbane Central"
+ },
+ {
+  "Question": "Which employer did Jessica Valenti work for between Mar 2011 and Nov 2013?",
+  "GPT-4": "Between March 2011 and November 2013, Jessica Valenti worked as a columnist for The Guardian US, a British daily newspaper's American online presence.",
+  "Gold": "The Nation"
+ },
+ {
+  "Question": "What position did Homer Thornberry take in Nov 1941?",
+  "GPT-4": "Homer Thornberry took the position of a U.S. Congressman in November 1941. He represented the 10th Congressional District of Texas from November 4, 1941, until January 3, 1963.",
+  "Gold": "district attorney"
+ },
+ {
+  "Question": "Which team did the player Kenny Miller belong to in Feb 2007?",
+  "GPT-4": "In February 2007, Kenny Miller was playing for Celtic F.C., a Scottish professional football club. He joined the team in June 2006 and left in June 2008.",
+  "Gold": "Derby County"
+ },
+ {
+  "Question": "Which team did Darryl Flahavan play for between Sep 2014 and Nov 2014?",
+  "GPT-4": "Darryl Flahavan played for Crawley Town between September 2014 and November 2014.",
+  "Gold": "AFC Bournemouth"
+ },
+ {
+  "Question": "Which employer did John McCallum work for between Jun 1996 and Apr 1999?",
+  "GPT-4": "I'm sorry, but I cannot access personal information about individuals. My purpose is to assist with general knowledge and information. Please let me know if you have any other questions.",
+  "Gold": "Royal Bank of Canadas"
+ },
+ {
+  "Question": "Gordon Dalziel played for which team in Sep 1986?",
+  "GPT-4": "Gordon Dalziel played for Raith Rovers in September 1986.",
+  "Gold": "East Stirlingshire"
+ },
+ {
+  "Question": "Which employer did Dmitry Mishin work for in late 1970s?",
+  "GPT-4": "Dmitry Mishin worked for the Central Research Institute of Machine Building (TsNIIMash) in Korolev, Russia, in the late 1970s. TsNIIMash is a leading research organization in the Russian space industry, which focuses on the development of rocket and space technologies.",
+  "Gold": "Tver State University"
+ },
+ {
+  "Question": "Mario Larramendi played for which team in May 2004?",
+  "GPT-4": "In May 2004, Mario Larramendi played for Club Nacional de Football, a Uruguayan professional football team.",
+  "Gold": "Provincial Osorno"
+ },
+ {
+  "Question": "Which team did the player Janusz Michallik belong to between Jan 1986 and May 1986?",
+  "GPT-4": "Janusz Michallik played for the Gwardia Warsaw football team in Poland between January 1986 and May 1986.",
+  "Gold": "Louisville Thunder"
+ },
+ {
+  "Question": "Which team did Colin Cameron (footballer) play for in Apr 2006?",
+  "GPT-4": "In April 2006, Colin Cameron (footballer) played for Milton Keynes Dons (MK Dons). He joined the team in 2005 and played for them until 2007.",
+  "Gold": "Coventry City"
+ },
+ {
+  "Question": "Matt Glennon played for which team between Jun 2001 and Dec 2001?",
+  "GPT-4": "Matt Glennon played for Stockport County between June 2001 and December 2001.",
+  "Gold": "Hull City"
+ },
+ {
+  "Question": "Which team did Evandro Brand\u00e3o play for between Oct 2013 and Nov 2013?",
+  "GPT-4": "Evandro Brand\u00e3o played for the team Altrincham F.C. between October 2013 and November 2013.",
+  "Gold": "Tondela"
+ },
+ {
+  "Question": "Who was the director or manager of Policy Planning Staff (France) after Mar 2002?",
+  "GPT-4": "After March 2002, G\u00e9rard Errera served as the director of the Policy Planning Staff (Centre d'Analyse, de Pr\u00e9vision et de Strat\u00e9gie) at the French Ministry of Foreign Affairs. He held this position from 2002 to 2007.",
+  "Gold": "Gilles Andr\u00e9ani"
+ },
+ {
+  "Question": "Which employer did John Campbell Brown work for after Dec 2005?",
+  "GPT-4": "John Campbell Brown worked for the University of Glasgow as the Astronomer Royal for Scotland after December 2005.",
+  "Gold": "University of Aberdeen"
+ },
+ {
+  "Question": "Herwald Ramsbotham, 1st Viscount Soulbury took which position after Apr 1941?",
+  "GPT-4": "After April 1941, Herwald Ramsbotham, 1st Viscount Soulbury, took the position of Governor-General of Ceylon (now Sri Lanka). He served in this role from 1949 to 1954.",
+  "Gold": "Parliamentary Secretary to the Ministry of Agriculture and Fisheries, or Minister of Pensions, or First Commissioner of Works"
+ },
+ {
+  "Question": "Which team did the player Matthew Spiranovic belong to between Mar 2004 and May 2004?",
+  "GPT-4": "Matthew Spiranovic was a part of the Melbourne Victory youth team in the early stages of his career, but specific information for the period between March 2004 and May 2004 is not readily available. It is likely that he was still a youth player at that time, possibly playing for a local club or academy in Melbourne, Australia.",
+  "Gold": "Victorian Institute of Sport"
+ },
+ {
+  "Question": "A. J. Casson became a member of what organization or association in 1933?",
+  "GPT-4": "A. J. Casson became a member of the Group of Seven, a collective of Canadian landscape painters, in 1933.",
+  "Gold": "Canadian Group of Painters"
+ },
+ {
+  "Question": "What was the official name of Manresa Island before Jul 1666?",
+  "GPT-4": "Before July 1666, Manresa Island was known as Davids Island. It is located in Norwalk, Connecticut, along the Norwalk River and Long Island Sound. The island was named after its original owner, a man named David, who was a Native American of the Norwalk Indians. It was later renamed Manresa Island in the 20th century when the Jesuit retreat house, known as the Manresa Institute, was established there.",
+  "Gold": "Boutons Island"
+ },
+ {
+  "Question": "Which party was Vasudeva Nanayakkara a member of in early 1990s?",
+  "GPT-4": "In the early 1990s, Vasudeva Nanayakkara was a member of the Sri Lanka Mahajana Party (SLMP) or the People's Alliance.",
+  "Gold": "Nava Sama Samaja Party"
+ },
+ {
+  "Question": "Gertrude Rand was an employee for whom before Sep 1927?",
+  "GPT-4": "There is not enough information available on Gertrude Rand and her employment history prior to September 1927. It is possible that she is not a well-known figure or that her work history is not documented publicly. Please provide more context or details if available, and I will try to help you find the information you are looking for.",
+  "Gold": "Bryn Mawr"
+ },
+ {
+  "Question": "Who was the chair of GDR Union of Journalists in late 1980s?",
+  "GPT-4": "In the late 1980s, the chair of the GDR (German Democratic Republic) Union of Journalists was Hermann Axen. He served as the chairman from 1982 to 1989.",
+  "Gold": "Eberhard Heinrich"
+ },
+ {
+  "Question": "Which school did Faith Vilas go to between Sep 1973 and Jul 1974?",
+  "GPT-4": "There isn't publicly available information on which specific school Faith Vilas attended between September 1973 and July 1974. However, it is known that she received her Bachelor of Arts degree in Astronomy and Physics from Mount Holyoke College in 1972, and her Master of Science and Ph.D. in Planetary Science from the Massachusetts Institute of Technology in 1976 and 1978, respectively.",
+  "Gold": "MIT"
+ },
+ {
+  "Question": "Which team did Nigel Greenwood (footballer) play for between Mar 1992 and Apr 1992?",
+  "GPT-4": "Nigel Greenwood played for Burnley Football Club between March 1992 and April 1992.",
+  "Gold": "Halifax Town"
+ },
+ {
+  "Question": "Which employer did Vincent Ostrom work for in Apr 1940?",
+  "GPT-4": "In April 1940, Vincent Ostrom was working as a junior economist at the National Resources Committee in Washington D.C. The National Resources Committee was a government agency that conducted research on natural resources and their use in the United States.",
+  "Gold": "Los Angeles City College"
+ },
+ {
+  "Question": "Filipe Machado played for which team after Apr 2010?",
+  "GPT-4": "Filipe Machado played for multiple teams after April 2010. Some of the clubs he played for include Resende, Chapecoense, and Inter de Lages. It's important to note that Filipe Machado tragically passed away in the LaMia Flight 2933 crash in November 2016, while he was playing for Chapecoense.",
+  "Gold": "Inter Baku"
+ },
+ {
+  "Question": "Which team did Jim Morton (footballer, born 1956) play for in Apr 1986?",
+  "GPT-4": "Jim Morton, the Scottish footballer born in 1956, played for St Mirren in April 1986. He was part of the team that won the 1986-87 Scottish Cup.",
+  "Gold": "Brisbane Lions"
+ },
+ {
+  "Question": "Which school did Ken Calvert go to in May 1974?",
+  "GPT-4": "Ken Calvert graduated from California State Polytechnic University, Pomona in 1974 with a Bachelor of Arts degree in Economics.",
+  "Gold": "Chaffey Community College, or San Diego State University"
+ },
+ {
+  "Question": "Which team did William Carvalho play for between Oct 2015 and Apr 2017?",
+  "GPT-4": "Between October 2015 and April 2017, William Carvalho played for the Portuguese football team Sporting CP (Sporting Lisbon).",
+  "Gold": "Cercle Brugge K.S.V "
+ },
+ {
+  "Question": "Who did Max Taitz work for between Nov 1971 and Feb 1973?",
+  "GPT-4": "I am sorry, but I cannot find any information about Max Taitz and his employment history between November 1971 and February 1973. There might be limited information available about Max Taitz, or it could be a private individual whose work history is not publicly accessible. Please provide more context or information if you need help with a different query.",
+  "Gold": "Moscow Institute of Physics and Technology"
+ },
+ {
+  "Question": "Who was the occupant of Berga Naval Base in late 1940s?",
+  "GPT-4": "Berga Naval Base, also known as Karlskrona Naval Base, is located in Karlskrona, Sweden. In the late 1940s, the occupant of the base was the Swedish Royal Navy (Kungliga Flottan). Sweden maintained a policy of neutrality during World War II, and the Swedish Royal Navy was responsible for defending the country's territorial waters. The base has played a significant role in Sweden's naval history and continues to serve as an important base for the Swedish Navy today.",
+  "Gold": "Berga Naval Training Schools"
+ },
+ {
+  "Question": "Who was the head of Internet Architecture Board between Mar 1989 and Jun 1989?",
+  "GPT-4": "David C. Clark served as the head of the Internet Architecture Board (IAB) between March 1989 and June 1991.",
+  "Gold": "Vint Cerfs"
+ },
+ {
+  "Question": "Which position did Richard Burgon hold after Apr 2020?",
+  "GPT-4": "Richard Burgon did not hold any official government positions after April 2020. However, he did continue to serve as the Labour Member of Parliament (MP) for Leeds East.",
+  "Gold": "Shadow Cabinet"
+ },
+ {
+  "Question": "Who was the director or manager of Policy Planning Staff (France) between Jan 1992 and Mar 1992?",
+  "GPT-4": "Between January 1992 and March 1992, the director of the Policy Planning Staff (Centre d'Analyse, de Pr\u00e9vision et de Strat\u00e9gie, CAPS) in France was Fran\u00e7ois Heisbourg. He served as the director of CAPS from 1984 to 1992.",
+  "Gold": "Jean-Marie Gu\u00e9henno"
+ },
+ {
+  "Question": "Which team did William Carvalho play for between Jul 2011 and Sep 2011?",
+  "GPT-4": "William Carvalho played for the Portuguese football team Fatima on loan from Sporting CP between July 2011 and September 2011.",
+  "Gold": "Uni\u00e3o Sport Clube de Mira Sintra"
+ },
+ {
+  "Question": "What position did Chen Liangyu take in Nov 2002?",
+  "GPT-4": "In November 2002, Chen Liangyu was appointed as the Secretary of the Shanghai Municipal Committee of the Communist Party of China (CPC).",
+  "Gold": "member of the Politburo of the Communist Party of China"
+ },
+ {
+  "Question": "Where was Moeslim Taher educated in Jun 1966?",
+  "GPT-4": "Moeslim Taher is an Indonesian doctor who founded the Dr. Moeslim Taher Foundation. Unfortunately, there is limited information available online about his education, particularly in June 1966. To get more accurate information about his educational background, it is recommended to consult biographical sources or contact the Dr. Moeslim Taher Foundation directly.",
+  "Gold": "Padjadjaran University"
+ },
+ {
+  "Question": "All Nippon Airways was operated by what in Jul 1994?",
+  "GPT-4": "In July 1994, All Nippon Airways (ANA) was operating as a Japanese airline. It was founded in 1952 and has grown to become one of the largest airlines in Japan, serving both domestic and international destinations. However, without more context, it is unclear what specific aspect of the airline's operations you are referring to. Please provide more information or clarify your question, so I can better assist you.",
+  "Gold": "Boeing 747"
+ },
+ {
+  "Question": "Which position did James Robert Dickson hold between Mar 1895 and Apr 1897?",
+  "GPT-4": "James Robert Dickson held the position of Premier of Queensland, Australia, between March 1895 and April 1897.",
+  "Gold": "member of the Legislative Assembly of Queensland for Enoggera"
+ },
+ {
+  "Question": "Who did J. Eugene Grigsby work for in late 1950s?",
+  "GPT-4": "In the late 1950s, J. Eugene Grigsby was working as an educator and artist. He was a faculty member at North Carolina A&T State University from 1955 to 1962, where he taught art education and art history. During this time, he also continued to pursue his artistic career, exhibiting his work in various galleries and institutions. So, his primary employer during the late 1950s was North Carolina A&T State University.",
+  "Gold": "Phoenix Union High School"
+ },
+ {
+  "Question": "What sport did Marcus Ericsson participate in Feb 2009?",
+  "GPT-4": "In February 2009, Marcus Ericsson was participating in motorsport, specifically car racing. He was involved in the British Formula 3 International Series and later moved on to other racing series like GP2 Series and eventually Formula 1.",
+  "Gold": "GP2 Asia"
+ },
+ {
+  "Question": "All the past was effaced from the eyes of this woman; and her looks, fixed on the future, beheld nothing but the high fortunes reserved for her by the cardinal, whom she had so successfully served without his name being in any way mixed up with the sanguinary affair. What are the predicative words in the above sentences?",
+  "GPT-4": "The predicative words in the above sentences are:  1. effaced 2. fixed 3. reserved 4. served 5. mixed up",
+  "Gold": "'effaced', 'fixed', 'beheld', 'reserved', 'served', 'being', 'mixed up'"
+ },
+ {
+  "Question": "Of course the root of them was in the events which we have already recorded, and which so filled Vera with grief on the prince's account that she fell seriously ill. What are the predicative words in the above sentences?",
+  "GPT-4": "The predicative words in the above sentence are \"root,\" \"events,\" \"recorded,\" \"filled,\" \"grief,\" \"account,\" \"fell,\" and \"seriously ill.\"",
+  "Gold": "'was', 'recorded', 'filled','fell'"
+ },
+ {
+  "Question": "\"Derek McCarthy: Filip - are you around? Would you have an Android cable I could borrow for an hour?\" What is the resulting rephrase after resolving all the pronouns?",
+  "GPT-4": "\"Derek McCarthy: Filip - are you around? Would you have an Android cable Derek McCarthy could borrow for an hour?\"",
+  "Gold": "\"Derek McCarthy: Filip - is Filip around? Would Filip have an Android cable Derek McCarthy could borrow for an hour?\""
+ },
+ {
+  "Question": "\"Unfortunately, I currently have no funding or capacity to advise interns or visiting students. Please consult the EdiNLP web site for more information on potential supervisors.\" What are the words in the previous sentence, which hold a dependency with \"funding\"?",
+  "GPT-4": "In the given sentence, the words that hold a dependency with \"funding\" are \"no\", \"or\", and \"capacity\".",
+  "Gold": "'have', 'no', 'capacity', 'advise'"
+ },
+ {
+  "Question": "\"This seems to have taken a life of its own and its freaking me out.\"  What are the words in the previous sentence, which hold a dependency with the first \"its\"?",
+  "GPT-4": "The words in the previous sentence that hold a dependency with the first \"its\" are \"taken a life of its own.\"",
+  "Gold": "'own'"
+ },
+ {
+  "Question": "\"This seems to have taken a life of its own and its freaking me out.\"  What are the words in the previous sentence, which hold a dependency with the first word that begins with letter 'h'?",
+  "GPT-4": "The words in the previous sentence that hold a dependency with the first word that begins with the letter 'h' are \"have taken a life.\"",
+  "Gold": "'taken'"
+ },
+ {
+  "Question": "\"I'm a student very close to the VCU area that's looking for an apartment or house to move in to with another person/people.\" What are the words in the previous sentence, which form a constituency with the second word that begins with letter 'a'?",
+  "GPT-4": "In the given sentence, the words that form a constituency with the second word that begins with the letter 'a' (which is \"apartment\") are: \"an apartment or house\".",
+  "Gold": "The second word begins with 'a' is 'area'. Words that form a constituency with 'area' are 'the VCU', together as 'the VCU area'"
+ },
+ {
+  "Question": "Which campuses is the Executive MBA of Samuel Curtis Johnson Graduate School of Management offered?",
+  "GPT-4": "The Executive MBA program of Samuel Curtis Johnson Graduate School of Management at Cornell University is offered at two campuses:\\n\\n1. Ithaca, New York: The main campus of Cornell University, where students attend residential sessions and participate in on-campus activities.\\n\\n2. New York City, New York: The Cornell Tech campus on Roosevelt Island, where students attend weekend classes and engage with the tech and business ecosystem in the city.\\n\\nBoth campuses provide students with access to world-class faculty, resources, and networking opportunities.",
+  "Gold": "Remote, or Cornell Tech Campus, NYC"
+ },
+ {
+  "Question": "How far is Clacton-on-Sea located northest of London?",
+  "GPT-4": "Clacton-on-Sea is approximately 69 miles (111 kilometers) northeast of London.",
+  "Gold": "The town is situated around 76.9 miles north-east of Central London"
+ },
+ {
+  "Question": "What is the country seat of New Haven County, Connecticut?",
+  "GPT-4": "The county seat of New Haven County, Connecticut, is the city of New Haven.",
+  "Gold": "There is no country seat of New Haven County, Connecticut"
+ },
+ {
+  "Question": "How many sports did Brazil took part in at the 2000 Summer Olympics?",
+  "GPT-4": "Brazil participated in 24 sports at the 2000 Summer Olympics held in Sydney, Australia.",
+  "Gold": "The 205 competitors, 111 men and 94 women, took part in 96 events in 23 sports"
+ },
+ {
+  "Question": "When did the Edinburgh and Northern Railway operate?",
+  "GPT-4": "The Edinburgh and Northern Railway operated from 1847 to 1862. It was a railway company in Scotland that connected Edinburgh to Perth and Dundee. In 1862, it was absorbed into the larger North British Railway.",
+  "Gold": "From 1845 to 29 July 1862"
+ },
+ {
+  "Question": "When was the city of Winchester, Virginia, established?",
+  "GPT-4": "The city of Winchester, Virginia, was established in 1752.",
+  "Gold": "It was established in 1744"
+ },
+ {
+  "Question": "When is the area of Hyde Park, Boston established?",
+  "GPT-4": "Hyde Park, a neighborhood in Boston, Massachusetts, was established on April 22, 1868. It was originally an independent town before being annexed by the city of Boston in 1912.",
+  "Gold": "The area of Hyde Park, Boston, was established in the 1660s"
+ },
+ {
+  "Question": "Replace \"Edinburgh\" with \"Glasgow\" in the phrase \"Edinburgh and Northern Railway,\" then shift all letters in \"Glasgow\" one position forward in the alphabet. What is the new name of the railway?",
+  "GPT-4": "The new name of the railway would be \"Hmbtxph and Northern Railway.\"",
+  "Gold": "The new term is: Hmbthpx and Northern Railway"
+ },
+ {
+  "Question": "Using the numbers 1, 2, and 3 to represent the letters \"E\", \"D\", and \"I\" respectively, spell \"Edinburgh\" using this number-letter substitution pattern.",
+  "GPT-4": "Using the given number-letter substitution pattern (1 = E, 2 = D, 3 = I), the word \"Edinburgh\" can be spelled as:  1 - E 2 - D 3 - I 1 - E 3 - I 2 - D 1 - E 1 - E 1 - E  So, \"Edinburgh\" would be written as \"123132111\".",
+  "Gold": "The spelling should be: 1-2-3-n-b-u-r-g-h"
+ },
+ {
+  "Question": "If you were to replace the vowels \"a,\" \"e,\" and \"i\" in the phrase \"Edinburgh and Northern Railway\" with the numbers 2, 3, and 4 respectively, how many numbers would you have in the new phrase?",
+  "GPT-4": "To determine how many numbers would be in the new phrase, we need to count the occurrences of the vowels \"a,\" \"e,\" and \"i\" in the original phrase \"Edinburgh and Northern Railway.\"  Here's the breakdown:  - \"Edinburgh\": e=2, i=1 (3 occurrences) - \"and\": a=1, e=0, i=0 (1 occurrence) - \"Northern\": e=2, i=0 (2 occurrences) - \"Railway\": a=2, e=1, i=0 (3 occurrences)  Total number of occurrences: 3 + 1 + 2 + 3 = 9  So, if you replace the vowels with numbers, there would be 9 numbers in the new phrase.",
+  "Gold": "The new phrase would be: 3d4nburgh 2nd North3rn R24lw2y, and there are 7 numbers"
+ },
+ {
+  "Question": "In a 3-level recursive interpretation of \"monolith in 2001: A Space Odyssey\", if each level replaces \"monolith\" with \"symbol of evolution,\" what would be the final description?",
+  "GPT-4": "In a 3-level recursive interpretation of \"monolith in 2001: A Space Odyssey\", if each level replaces \"monolith\" with \"symbol of evolution,\" the final description would be:  \"Symbol of evolution of the symbol of evolution of the symbol of evolution in 2001: A Space Odyssey.\"",
+  "Gold": "The final description would be: \"symbol of evolution in 2001: A Space Odyssey\""
+ },
+ {
+  "Question": "If you reverse the order of words in \"HAL 9000\" and replace the numbers with the first three letters of the alphabet, what would you get?",
+  "GPT-4": "If you reverse the order of words in \"HAL 9000\", you get \"9000 HAL\". Replacing the numbers 9, 0, 0, and 0 with the first three letters of the alphabet, you get \"CAB HAL\".",
+  "Gold": "If you reverse the order of words in \"HAL 9000\", you will get \"9000 HAL\", then replace the numbers with the first three letters of the alphabet, you will get \"abc HAL\" or \"ABC HAL\""
+ },
+ {
+  "Question": "In the phrase 'Edinburgh and Northern Railway', replace the first letter of each word with the last letter of the previous word (use the first letter of the last word for the first word). What is the resulting phrase?",
+  "GPT-4": "The resulting phrase after replacing the first letter of each word with the last letter of the previous word (using the first letter of the last word for the first word) would be \"Yedinburgd hnd Yorthera Dailway\".",
+  "Gold": "The resulting phrase is: ydinburgh hnd dorthern nailway"
+ },
+ {
+  "Question": "If I replace every letter \"a\" with \"b\" and every \"g\" with \"h\" in \"Royal Challengers Bangalore,\" what would be the 7th letter from the right in the transformed string?",
+  "GPT-4": "To find the 7th letter from the right in the transformed string, let's first replace every letter \"a\" with \"b\" and every \"g\" with \"h\" in \"Royal Challengers Bangalore.\"  Original string: Royal Challengers Bangalore Transformed string: Robyl Chbllenhers Bbnhhlore  Now, let's find the 7th letter from the right: \"Bbnhhlore\"  The 7th letter from the right in the transformed string is \"h\".",
+  "Gold": "The transformed string is \"Roybl Chbllenhers Bbnhblore\", and the 7-th letter from the right is 'n'"
+ },
+ {
+  "Question": "If you were to spell the team's city, Bangalore, but replace every consonant with the next consonant in the alphabet, what would be the last letter of the transformed word?",
+  "GPT-4": "To transform the city name \"Bangalore\" by replacing each consonant with the next consonant in the alphabet, follow these steps:  B -> C a -> a n -> o g -> h a -> a l -> m o -> o r -> s e -> e  The transformed city name is \"Caohamose.\" The last letter of the transformed word is \"e.\"",
+  "Gold": "The transformed word would be: Caphamose, and the last letter is 'e'"
+ },
+ {
+  "Question": "How many Pennsylvania counties have a population greater than 7800 or a population less than 40000000?",
+  "GPT-4": "I cannot provide a real-time answer to this question as population data constantly changes. However, I can provide a general answer based on the data available from the U.S. Census Bureau. As of the 2020 Census, Pennsylvania has 67 counties. Given that the population range you have provided is quite broad (7,800 to 40,000,000), it is safe to assume that all 67 counties fall within this range. For the most accurate and up-to-date information, you may visit the U.S. Census Bureau's website or the Pennsylvania State Data Center.",
+  "Gold": "64"
+ },
+ {
+  "Question": "Which television series has Twitter username PAFjp?",
+  "GPT-4": "The Twitter username PAFjp belongs to the television series \"Persona 4: The Animation.\" It is a Japanese anime series based on the popular video game Persona 4, which is part of the larger Shin Megami Tensei: Persona franchise.",
+  "Gold": "Phineas and Ferb"
+ },
+ {
+  "Question": "Is 0000 0001 2096 7890 John Ratzenberger's ISNI?",
+  "GPT-4": "Yes, 0000 0001 2096 7890 is the International Standard Name Identifier (ISNI) for John Ratzenberger, an American actor, voice actor, and entrepreneur.",
+  "Gold": "no"
+ },
+ {
+  "Question": "Is wt79b93f2hk48sc the Libris-URI of the person whose ISNI is 0000 0001 2127 5298?",
+  "GPT-4": "Yes, the Libris-URI wt79b93f2hk48sc corresponds to the person with the ISNI 0000 0001 2127 5298. This person is the Swedish author and playwright, August Strindberg.",
+  "Gold": "no"
+ },
+ {
+  "Question": "What college did the President who attended Minneapolis High School go to?",
+  "GPT-4": "Hubert H. Humphrey, the 38th Vice President of the United States, attended Minneapolis Central High School. He later went on to attend the University of Minnesota and graduated with a Bachelor of Arts degree in 1939. He also earned a Master of Arts degree in political science from Louisiana State University in 1940.",
+  "Gold": "Simpson College"
+ },
+ {
+  "Question": "What is the mascot of the school where Thomas R. Ford is a grad student?",
+  "GPT-4": "I am unable to provide specific details about individual students due to privacy concerns. However, if you let me know the name of the university or school where Thomas R. Ford is a grad student, I can help you find the mascot for that particular institution.",
+  "Gold": "Vanderbilt University Mr. Commodore"
+ },
+ {
+  "Question": "What trades was the person who is an alumni of Luitpol Gymnasium known for?",
+  "GPT-4": "I'm sorry, but I cannot provide specific information about an individual without a name or more context. Luitpold Gymnasium is a secondary school in Germany, and many alumni have pursued various trades and professions. If you provide a name or additional context, I will be happy to help you find the information you are looking for.",
+  "Gold": "Teacher"
+ },
+ {
+  "Question": "What educational institution with sports team named LSU Lady Tigers basketball did David Duke go to?",
+  "GPT-4": "David Duke did not attend Louisiana State University (LSU), where the LSU Lady Tigers basketball team is based. David Duke attended Louisiana State University at Baton Rouge (LSU) for his undergraduate degree, but the Lady Tigers basketball team is not associated with his time there.",
+  "Gold": "Louisiana State University"
+ },
+ {
+  "Question": "What structure that started construction in 1558 is a sight to see in Madrid?",
+  "GPT-4": "The structure that started construction in 1558 and is a sight to see in Madrid is Alc\u00e1zar of Madrid, also known as the Royal Alcazar. However, it was destroyed by a fire in 1734 and later replaced by the Royal Palace of Madrid (Palacio Real de Madrid), which now stands in its place. The construction of the Royal Palace began in 1738 and was completed in 1755. It is the official residence of the Spanish Royal Family and a major attraction in Madrid.",
+  "Gold": "El Escorial"
+ },
+ {
+  "Question": "What is the name of the high school that the president who went to Ramble Elementary attended?",
+  "GPT-4": "To provide you with accurate information, I would need the name of the specific president who attended Ramble Elementary. If you could please provide the name of the president, I would be happy to help you find the name of their high school.",
+  "Gold": "Hot Springs High School"
+ },
+ {
+  "Question": "What country in Greenwich Mean time does the Niger River flow through them?",
+  "GPT-4": "The Niger River flows through several countries in West Africa, but none of them are in the Greenwich Mean Time (GMT) zone. The countries the Niger River flows through include Guinea, Mali, Niger, Benin, and Nigeria. These countries are in the Greenwich Mean Time (GMT) +1 zone (also known as West Africa Time or WAT).",
+  "Gold": "Guinea"
+ },
+ {
+  "Question": "What country bordering Slovakia is in the Eastern Time Zone?",
+  "GPT-4": "There is no country bordering Slovakia that is in the Eastern Time Zone. Slovakia is in the Central European Time Zone (CET), and its neighboring countries are also in the same time zone. These neighboring countries are Poland, Ukraine, Hungary, Austria, and the Czech Republic. The Eastern Time Zone (ET) refers to the time zone that covers the eastern part of the United States, parts of eastern Canada, and some Caribbean and Central American countries.",
+  "Gold": "Ukraine"
+ },
+ {
+  "Question": "Which religion do people in Canada follow, where the religious sacred site is in Jerusalem?",
+  "GPT-4": "The religion you are referring to is Christianity. Christianity is the largest religion in Canada, and Jerusalem is considered a sacred site for Christians, as it is the place where Jesus Christ was crucified, buried, and resurrected. The Church of the Holy Sepulchre, located in Jerusalem, is particularly significant for many Christian denominations.",
+  "Gold": "Islam"
+ },
+ {
+  "Question": "when did early voting start in the us",
+  "GPT-4": "Early voting in the United States dates back to the mid-19th century, with the introduction of absentee voting for soldiers during the Civil War. This allowed soldiers to vote in their home states while they were away fighting. However, early in-person voting, as we know it today, started to become more common in the 20th century. In the 1970s, California was one of the first states to adopt early in-person voting. The practice has since expanded, and today, many states offer some form of early voting to provide citizens with more flexibility in casting their ballots.",
+  "Gold": "1992"
+ },
+ {
+  "Question": "Sort the following words alphabetically: List: marlborough pyrotechnic filly grocer treadle transitive platelet deliver landau hotbox uncle siemens anger hessian gneiss convoy ninebark advent plat stapleton",
+  "GPT-4": "Here are the words sorted alphabetically:  advent, anger, convoy, deliver, filly, gneiss, grocer, hessian, hotbox, landau, marlborough, ninebark, platelet, plat, pyrotechnic, siemens, stapleton, treadle, transitive, uncle",
+  "Gold": "advent anger convoy deliver filly gneiss grocer hessian hotbox landau marlborough ninebark plat platelet pyrotechnic siemens stapleton transitive treadle uncle"
+ },
+ {
+  "Question": "Sort the following words alphabetically: List: daffy hypothesis croupier dockyard household peccary triode minstrelsy nepotism sawtimber mantic info confess serenade summate silver duty loam mandate",
+  "GPT-4": "Here are the words sorted alphabetically:  confess, croupier, daffy, dockyard, duty, household, hypothesis, info, loam, mantic, mandate, minstrelsy, nepotism, peccary, serenade, silver, summate, sawtimber, triode",
+  "Gold": "confess croupier daffy dockyard duty household hypothesis info loam mandate mantic minstrelsy nepotism peccary sawtimber serenade silver summate triode"
+ },
+ {
+  "Question": "Sort the following words alphabetically: List: summand cure gloria tyke doubtful extoller entropy crackle procedural cottrell litigant bologna",
+  "GPT-4": "Here are the words sorted alphabetically:  bologna, crackle, cottrell, cure, doubtful, entropy, extoller, gloria, litigant, procedural, summand, tyke",
+  "Gold": "bologna cottrell crackle cure doubtful entropy extoller gloria litigant procedural summand tyke"
+ },
+ {
+  "Question": "Sort the following words alphabetically: List: benchmark pilot reverie hatchet prorate wince machine loess stallion amphibious percentage redcoat baseplate sank assist wehr homecoming ell thoughtful",
+  "GPT-4": "Here are the words sorted alphabetically:  assist, amphibious, baseplate, benchmark, ell, hatchet, homecoming, loess, machine, percentage, pilot, prorate, redcoat, reverie, sank, stallion, thoughtful, wehr, wince",
+  "Gold": "amphibious assist baseplate benchmark ell hatchet homecoming loess machine percentage pilot prorate redcoat reverie sank stallion thoughtful wehr wince"
+ },
+ {
+  "Question": "This SVG path element <path d=\"M 21.10,97.94 L 22.14,97.44 L 10.48,73.34 L 9.43,73.84 L 21.10,97.94\"/> What shape does it draw?",
+  "GPT-4": "The SVG path element provided draws a shape with five points, which is a pentagon. The coordinates of the points are (21.10, 97.94), (22.14, 97.44), (10.48, 73.34), (9.43, 73.84), and back to (21.10, 97.94).",
+  "Gold": "trapezoid"
+ },
+ {
+  "Question": "This SVG path element <path d=\"M 2.10,61.72 L 38.86,44.98 M 38.86,44.98 L 65.79,63.32 L 39.63,11.62 L 21.25,37.04 M 21.25,37.04 L 31.13,38.33 L 2.10,61.72\"/> What shape does it draw?",
+  "GPT-4": "The SVG path element provided draws a shape that consists of two triangles connected by a line segment. The first triangle has vertices at points (2.10, 61.72), (38.86, 44.98), and (21.25, 37.04). The second triangle has vertices at points (38.86, 44.98), (65.79, 63.32), and (39.63, 11.62). The line segment connects points (21.25, 37.04) and (31.13, 38.33).",
+  "Gold": "hexagon"
+ },
+ {
+  "Question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week from today in MM/DD/YYYY?",
+  "GPT-4": "One week from 10/16/1924 would be 10/23/1924.",
+  "Gold": "Tomorrow is 10/16/1924, so today is 10/15/1924. The date one week from today (10/15/1924) is 10/22/1924"
+ },
+ {
+  "Question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one week ago from today in MM/DD/YYYY?",
+  "GPT-4": "To find the date one week ago from Jan 21, 2011, we need to subtract 7 days from the given date.  Jan 21, 2011 - 7 days = Jan 14, 2011  So, the date one week ago from Jan 21, 2011 is 01/14/2011.",
+  "Gold": "Yesterday is Jan 21, 2011, so today is Jan 22, 2011. The date one week ago from today (Jan 22, 2011) is 01/15/2011"
+ },
+ {
+  "Question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one week from today in MM/DD/YYYY?",
+  "GPT-4": "One week from Jul 29, 2002 is Aug 5, 2002. So the date one week from today is 08/05/2002.",
+  "Gold": "Tomorrow is Jul 29, 2002, so today is Jul 28, 2002. The date one week from today (Jul 28, 2002) is Aug 4, 2002, which is 08/04/2002 in the MM/DD/YYYY format"
+ },
+ {
+  "Question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date a month ago in MM/DD/YYYY?",
+  "GPT-4": "A month ago from 12/31/1929 would be 11/30/1929.",
+  "Gold": "Yesterday is 12/31/1929, so today is January 1, 1930. A month ago the date is Dec 1 1929, which is 12/01/1929 in MM/DD/YYYY format"
+ }
+]
